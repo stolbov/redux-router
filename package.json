@@ -1,0 +1,29 @@
+{
+  "name": "redux-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --content-base dist/",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.6.4",
+    "babel-core": "^5.6.4",
+    "babel-loader": "^5.1.4",
+    "css-loader": "^0.15.1",
+    "express": "^4.13.0",
+    "file-loader": "^0.8.4",
+    "node-libs-browser": "^0.5.2",
+    "react": "^0.13.3",
+    "react-hot-loader": "^1.2.7",
+    "react-router": "^0.13.3",
+    "redux": "^0.12.0",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.9.11",
+    "webpack-dev-server": "^1.9.0"
+  }
+}
