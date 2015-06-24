@@ -18,6 +18,7 @@
     "express": "^4.13.0",
     "file-loader": "^0.8.4",
     "node-libs-browser": "^0.5.2",
+    "object-assign": "^3.0.0",
     "react": "^0.13.3",
     "react-gemini-scrollbar": "^1.1.1",
     "react-hot-loader": "^1.2.7",
